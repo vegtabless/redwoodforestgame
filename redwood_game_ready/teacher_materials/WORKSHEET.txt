@@ -1,0 +1,6 @@
+Student Worksheet
+
+1) Run baseline scenario
+2) Run predator loss scenario
+3) Export CSV and plot results
+4) Answer reflection questions

@@ -1,0 +1,7 @@
+Rubric
+
+Scientific Accuracy (0-3)
+Design & Functionality (0-3)
+Creativity (0-3)
+Depth (0-3)
+Bibliography (0-3)
